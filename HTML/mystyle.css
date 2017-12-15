@@ -1,0 +1,21 @@
+html, body {
+  font: 12px sans-serif;
+}
+
+h1{
+	font-size: 46px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    margin: 0.1em 0;
+}
+
+.axis--x path {
+  display: flex;
+}
+
+.line {
+  fill: none;
+  stroke: orange;
+  stroke-width: 3px;
+}
+
